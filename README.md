@@ -1,11 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Abilash N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding' width='400' src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abilash-nambi&label=Profile%20views&color=0e75b6&style=flat" alt="abilash-nambi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abilash-nambi" alt="abilash-nambi" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
