@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abilash N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding' width='400' src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<!-- <img align='right' alt='coding' width='400' src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/> -->
 
 - 🌱 I’m currently learning **Full Stack Development**
 
