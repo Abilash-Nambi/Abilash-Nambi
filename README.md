@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-  ![](https://komarev.com/ghpvc/?username=Abilash-Nambi&color=green)
+  ![](https://komarev.com/ghpvc/?username=Abilash-Nambi&color=green&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
