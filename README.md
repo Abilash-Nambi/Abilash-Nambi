@@ -13,8 +13,8 @@ My interest lies in problem solving and software development.I am a constant lea
   ![](https://komarev.com/ghpvc/?username=Abilash-Nambi&color=green&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
-(?:https?:)?\/\/(?:[\w]+\.)?linkedin\.com\/(?P<company_type>(company)|(school))\/(?P<company_permalink>[A-z0-9-À-ÿ\.]+)\/?
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abilash-nambi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abilash-nambi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
