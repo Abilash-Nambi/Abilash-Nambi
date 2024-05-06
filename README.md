@@ -5,7 +5,7 @@
 My interest lies in problem solving and software development.I am a constant learner and I like interacting with new people.</p>
 <!-- <img align='right' alt='coding' width='400' src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/> -->
 
-- 🌱 I’m currently learning **MySQ and MongoDb Advanced**
+- 🌱 I’m currently learning **MySQL and MongoDb Advanced**
 - 💬 Ask me about **MERN**
 - 📫 Reach me **@abilashn2704@gmail.com**
 - ⚡ Fun fact **I think I am Funny**
